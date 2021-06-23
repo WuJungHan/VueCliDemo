@@ -1,4 +1,4 @@
-# https://wujunghan.github.io/VueCliDemo/
+# https://wujunghan.github.io/VueCliDemo/dist/
 
 # cli
 
